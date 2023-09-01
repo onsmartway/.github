@@ -11,3 +11,6 @@ Conectar a nuestros clientes con sus datos para que mejoren sus operaciones. Las
 ## VISIÓN:
 
 Ser el socio estratégico de las empresas que aspiran a alcanzar su máximo potencial a través de la automatización y análisis de datos.
+
+Agro: Peritar la producción agrícola de América Latina con un solo click.
+Transporte: Ser el mejor asesor operativo de nuestros clientes transportistas.
